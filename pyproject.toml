@@ -1,0 +1,13 @@
+[project]
+name = "tecton_mcp"
+version = "0.1.0"
+description = "Tecton MCP server"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "click>=8.1.8",
+    "cloudpickle>=3.1.1",
+    "httpx>=0.28.1",
+    "mcp>=1.3.0",
+    "tecton>=1.1.5",
+]
