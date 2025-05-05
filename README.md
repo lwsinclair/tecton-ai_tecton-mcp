@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-tecton-ai-tecton-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-tecton-ai-tecton-mcp)
+
 # Tecton MCP Server
 
 This is a Mission Control Protocol (MCP) server from Anthropic for Tecton that provides a set of tools to interact with Tecton clusters, manage feature stores, and execute Tecton CLI commands.
